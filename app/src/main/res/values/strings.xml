@@ -1,3 +1,26 @@
 <resources>
-    <string name="app_name">SiCuanv1</string>
+    <string name="app_name">SiCuan</string>
+
+    <string name="title_home">SiCuan</string>
+    <string name="title_input">Catat Transaksi</string>
+
+    <string name="cd_reset_data">Reset Data</string>
+    <string name="cd_add">Tambah</string>
+    <string name="cd_back">Kembali</string>
+
+    <string name="history_title">Riwayat Transaksi</string>
+    <string name="empty_transaction">Belum ada transaksi. Yuk catat cuan pertamamu!</string>
+    <string name="total_balance">Total Saldo Bersih</string>
+    <string name="income">Pemasukan</string>
+    <string name="expense">Pengeluaran</string>
+
+    <string name="dialog_reset_title">Reset Semua Data</string>
+    <string name="dialog_reset_body">Apakah Anda yakin ingin menghapus seluruh riwayat pemasukan dan pengeluaran? Tindakan ini tidak dapat dibatalkan.</string>
+    <string name="btn_delete_all">Hapus Semua</string>
+    <string name="btn_cancel">Batal</string>
+
+    <string name="label_nominal">Nominal (Rp)</string>
+    <string name="prefix_rp">Rp </string>
+    <string name="label_note">Keterangan</string>
+    <string name="btn_save_transaction">Simpan Transaksi</string>
 </resources>
